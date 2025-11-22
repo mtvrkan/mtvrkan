@@ -70,5 +70,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mtvrkan&style=flat-square&color=blue&label=Profil+Ziyareti" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=mtvrkan&style=flat&color=blue&label=Profil+Ziyareti" alt="views"/>
 </div>
