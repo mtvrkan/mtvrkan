@@ -18,9 +18,9 @@
   </p>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Odak-Mobil-4285F4?style=flat-square&logo=flutter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Konum-Hatay%2C_TR-EA4335?style=flat-square&logo=google-maps&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Durum-Kodluyor...-34A853?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Odak-Mobil-4285F4?style=flat&logo=flutter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Konum-Hatay%2C_TR-EA4335?style=flat&logo=google-maps&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Durum-Kodluyor...-34A853?style=flat&logo=visual-studio-code&logoColor=white"/>
   </p>
 
   <div align="center">
