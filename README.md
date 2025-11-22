@@ -54,8 +54,6 @@
 
 </div>
 
-<br/>
-
 <h2 align="center">📊 GitHub İstatistikleri</h2>
 
 <div align="center">
