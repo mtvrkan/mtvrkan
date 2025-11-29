@@ -47,14 +47,14 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mtvrkan&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&text_color=8b949e&icon_color=2563EB&locale=en" height="150" alt="stats" />
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=mtvrkan&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&text_color=8b949e&icon_color=2563EB&locale=en" height="150" alt="stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtvrkan&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=8b949e&icon_color=2563EB&locale=en" height="150" alt="languages" />
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=mtvrkan&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=8b949e&icon_color=2563EB&locale=en" height="150" alt="languages" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtvrkan&theme=transparent&hide_border=true&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&locale=en" alt="streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mtvrkan&bg_color=00000000&color=2563EB&line=2563EB&point=FFFFFF&hide_border=true" height="250" alt="activity-graph" />
 </div>
 
 <br/>
