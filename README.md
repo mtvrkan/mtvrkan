@@ -12,7 +12,6 @@
 
   <p align="center" style="font-size: 16px; max-width: 80%;">
     🎓 I am a <b>Computer Engineering</b> student at <b>Iskenderun Technical University</b>.<br>
-    🚀 I've been at the keyboard since childhood, and now I am a passionate <b>Mobile Developer</b>.<br>
     💻 I love turning ideas into code line by line, building <b>Cross-Platform</b> architectures, and<br>
     perfecting the user experience.
   </p>
