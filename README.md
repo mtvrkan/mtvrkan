@@ -23,7 +23,7 @@
   </p>
 
 <p align="center">
-    <a href="https://mehmetturkan.com">
+    <a href="https://mehmetturkan.com" target="_blank">
       <img src="https://img.shields.io/badge/Website-mehmetturkan.com-4285F4?style=flat&logo=google-chrome&logoColor=white"/>
     </a>
   </p>
