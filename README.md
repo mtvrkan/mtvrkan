@@ -12,8 +12,6 @@
 
   <p align="center" style="font-size: 16px; max-width: 80%;">
     🎓 I am a <b>Computer Engineering</b> student at <b>Iskenderun Technical University</b>.<br>
-    💻 I love turning ideas into code line by line, building <b>Cross-Platform</b> architectures, and<br>
-    perfecting the user experience.
   </p>
 
   <p align="center">
