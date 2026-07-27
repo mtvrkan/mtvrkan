@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4285F4&height=200&section=header&text=Mehmet%20T%C3%BCrkan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Application%20Developer&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4285F4&height=200&section=header&text=Mehmet%20T%C3%BCrkan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer&descAlignY=55&descAlign=50"/>
 </div>
 
 <div align="center">
@@ -11,10 +11,6 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Focus-Mobile-4285F4?style=flat&logo=flutter&logoColor=white"/>
     <img src="https://img.shields.io/badge/Location-Hatay%2C_TR-EA4335?style=flat&logo=google-maps&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Status-Coding...-34A853?style=flat&logo=visual-studio-code&logoColor=white"/>
-  </p>
-
-<p align="center">
     <a href="https://mtvrkan.com" target="_blank">
       <img src="https://img.shields.io/badge/Website-mtvrkan.com-4285F4?style=flat&logo=google-chrome&logoColor=white"/>
     </a>
