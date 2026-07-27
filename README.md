@@ -4,12 +4,6 @@
 
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Google+Sans&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Dream..+Code..+Compile...+Repeat.." alt="Typing SVG" />
-  </a>
-
-  <br/>
-
   <p align="center" style="font-size: 16px; max-width: 80%;">
     🎓 I am a <b>Computer Engineering</b> student at <b>Iskenderun Technical University</b>.<br>
   </p>
@@ -21,7 +15,7 @@
   </p>
 
 <p align="center">
-    <a href="https://mehmetturkan.com" target="_blank">
+    <a href="https://mtvrkan.com" target="_blank">
       <img src="https://img.shields.io/badge/Website-mehmetturkan.com-4285F4?style=flat&logo=google-chrome&logoColor=white"/>
     </a>
   </p>
